@@ -16,9 +16,9 @@
 
 | # | Nome | Matrícula |
 |:-:|------|-----------|
-| 1 | Kaike Ferreira Alves - | 202305010538 |
-| 2 | Gustavo Wendell de Lima Oliveira -  | 2025010420 |
-| 3 | *Nome do participante 3* | — |
+| 1 | Kaike Ferreira Alves | 202305010538 |
+| 2 | Gustavo Wendell de Lima Oliveira  | 2025010420 |
+| 3 | Miguel Lima Almeida | 2025010487 |
 
 ---
 
