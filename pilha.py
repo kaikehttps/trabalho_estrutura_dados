@@ -1,14 +1,3 @@
-# ============================================================
-# Trabalho: Processamento de Expressoes Matematicas
-# Disciplina: Estruturas de Dados
-#
-# Integrantes:
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-# ============================================================
-#
 # Arquivo: pilha.py
 # Conteudo: estrutura de dados Pilha (LIFO) implementada com
 #           encadeamento de nos. Este arquivo e compartilhado

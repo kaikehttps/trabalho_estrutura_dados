@@ -1,14 +1,3 @@
-# ============================================================
-# Trabalho: Processamento de Expressoes Matematicas
-# Disciplina: Estruturas de Dados
-#
-# Integrantes:
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-# ============================================================
-#
 # Arquivo: desafio2.py
 # Conteudo: DESAFIO 2 - tokenizacao de expressoes convencionais
 #           (infixas) e conversao para a forma POS-FIXA, usando

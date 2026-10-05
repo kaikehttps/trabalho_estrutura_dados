@@ -1,14 +1,3 @@
-# ============================================================
-# Trabalho: Processamento de Expressoes Matematicas
-# Disciplina: Estruturas de Dados
-#
-# Integrantes:
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-# ============================================================
-#
 # Arquivo: desafio1.py
 # Conteudo: DESAFIO 1 - avaliacao de expressoes POS-FIXAS
 #           (notacao polonesa reversa) usando pilha encadeada.

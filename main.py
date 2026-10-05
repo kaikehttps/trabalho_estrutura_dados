@@ -1,14 +1,3 @@
-# ============================================================
-# Trabalho: Processamento de Expressoes Matematicas
-# Disciplina: Estruturas de Dados
-#
-# Integrantes:
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-#   Nome: ______________________________  Matricula: ______________
-# ============================================================
-#
 # Arquivo: main.py
 # Conteudo: PROGRAMA PRINCIPAL. Le as expressoes, chama as funcoes
 #           dos desafios 1 e 2 e imprime os rastreamentos.
